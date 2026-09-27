@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 -->
 
-Hi 👋 ny name is April
+Hi 👋 my name is April
 =======================
 
 Library Professional | Tech Services, Cataloging, Collections, Metadata, Data 
