@@ -3,9 +3,10 @@
 Hi 👋 my name is April
 =======================
 
-Library Professional | Tech Services, Cataloging, Collections, Metadata, Data 
+Library Professional 
 -----------------------------------------------------------------------------
-Passionate about streamlining workflows and driving impactful, data-informed decisions.
+* 📚 Specializing in cataloging, collections, and data analysis
+* 📈 Passionate about streamlining workflows and driving impactful, data-informed decisions
 
 * 🌍  Based in San Francisco Bay Area
 * 🧠  Currently learning Pandas
